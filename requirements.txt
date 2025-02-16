@@ -1,0 +1,4 @@
+streamlit
+smolagents
+requests
+python-dotenv
